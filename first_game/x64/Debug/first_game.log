@@ -1,0 +1,22 @@
+﻿  main.cpp
+Q:\cpp_learn\first_game\first_game\main.cpp(51,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(52,7): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(54,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(55,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(62,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(62,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(67,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(68,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(126,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(127,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(137,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(141,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(141,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(141,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(141,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(214,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(215,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Q:\cpp_learn\first_game\first_game\main.cpp(219,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  first_game.vcxproj -> Q:\cpp_learn\first_game\x64\Debug\first_game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
